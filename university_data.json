@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Massachusetts Institute of Technology (MIT)",
+        "country": "USA",
+        "ranking": 1,
+        "majors": [
+            "Computer Science",
+            "AI",
+            "Data Science"
+        ],
+        "min_gpa": 3.7,
+        "budget": 60000
+    },
+    {
+        "name": "Stanford University",
+        "country": "USA",
+        "ranking": 2,
+        "majors": [
+            "Computer Science",
+            "Business Analytics",
+            "AI"
+        ],
+        "min_gpa": 3.6,
+        "budget": 65000
+    },
+    {
+        "name": "University of Toronto",
+        "country": "Canada",
+        "ranking": 25,
+        "majors": [
+            "Computer Science",
+            "Engineering",
+            "Finance"
+        ],
+        "min_gpa": 3.3,
+        "budget": 40000
+    },
+    {
+        "name": "University of Oxford",
+        "country": "UK",
+        "ranking": 5,
+        "majors": [
+            "Philosophy",
+            "Law",
+            "Computer Science"
+        ],
+        "min_gpa": 3.8,
+        "budget": 50000
+    },
+    {
+        "name": "National University of Singapore",
+        "country": "Singapore",
+        "ranking": 11,
+        "majors": [
+            "Computer Science",
+            "Data Science",
+            "Finance"
+        ],
+        "min_gpa": 3.4,
+        "budget": 35000
+    },
+    {
+        "name": "Technical University of Munich",
+        "country": "Germany",
+        "ranking": 37,
+        "majors": [
+            "Engineering",
+            "Computer Science",
+            "AI"
+        ],
+        "min_gpa": 3.0,
+        "budget": 20000
+    }
+]
