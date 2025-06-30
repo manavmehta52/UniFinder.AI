@@ -41,7 +41,7 @@ def index():
 
         chat_history.append({"sender": "bot", "text": reply})
 
-    return render_template("chat.html", messages=chat_history)
+    return render_template("index.html", messages=chat_history)
 
 if __name__ == "__main__":
     app.run(debug=True)
